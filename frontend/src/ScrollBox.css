@@ -1,0 +1,31 @@
+/* .container {
+  min-height: 200vh; /* Enough space to scroll */
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px; */
+/* }  */
+
+/* .box {
+  width: 300px;
+  height: 300px;
+  background-color: cornflowerblue;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.5s ease;
+  border-radius: 12px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  transform-origin: top center;
+}
+
+.tilt-back {
+  transform: perspective(600px) rotateX(0deg);
+}
+
+.tilt-forward {
+  transform: perspective(600px) rotateX(45deg);
+} */
